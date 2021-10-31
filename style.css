@@ -1,0 +1,204 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+a{
+    color: #fff;
+    text-decoration: none;
+
+}
+
+.hopo{
+    width: 100%;
+    height: 1000px;
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+.hopo h1{   
+    color: rgb(238, 235, 235);
+    padding: 70px;
+    font-size: 50px;
+    
+}
+
+p{
+    font-family: 'Noto Sans Mono', monospace;
+    font-size: 60px;
+    color: rgb(3, 1, 1);
+}
+
+.pouo p{
+    font-size: 10px;
+}
+
+.hack p{
+color: rgb(5, 1, 1);
+font-size: 32px;
+padding: 47px 100px 14px;
+font-family: 'Raleway', sans-serif;
+padding-left: 230px;
+
+
+
+
+}
+
+.block1 p{
+    font-size: 20px;
+    color: rgb(7, 2, 2);
+    font-family: 'Raleway', sans-serif;
+    padding-left: 230px;
+ 
+}
+
+
+
+
+.block2 p{
+    font-family: 'Raleway', sans-serif;
+    color: rgb(10, 3, 3);
+    font-size: 32px;
+    padding-left: 230px;
+    padding-top: 44px;
+
+ 
+}
+
+.blockr p{
+    font-size: 23px;
+    font-family: 'Raleway', sans-serif;
+    padding: 10px;
+    padding-left: 230px;
+
+    
+} 
+
+.block4 p{
+    font-size: 32px;
+    font-family: 'Raleway', sans-serif;
+    padding: 60px;
+    color: black;
+    padding-left: 230px;
+
+}
+
+
+.block5 p{
+    font-size: 22px;
+    font-family: 'Raleway', sans-serif;
+    color: black;
+    padding-left: 230px;
+
+
+}
+
+.block5 a{
+    font-size: 32px;
+    color: black;
+}
+
+
+
+.block7 p{
+    padding: 60px;
+    font-size: 22px;
+    font-family: 'Raleway', sans-serif;
+    padding-left: 230px;
+
+
+}
+
+.block7 a{
+    font-size: 34px;
+    color: black;
+    font-family: 'Raleway', sans-serif;
+}
+
+
+.block8 p{
+    font-size: 23px;
+    font-family: 'Raleway', sans-serif;
+    padding: 24px;
+    padding-left: 230px;
+
+}
+
+.block8 a{
+    font-size: 34px;
+    font-family: 'Raleway', sans-serif;
+    color: black;
+
+}
+
+.block9 a{
+    font-size: 34px;
+    font-family: 'Raleway', sans-serif;
+    color: black;
+
+}
+
+.block9 p{
+    font-size: 22px;
+    font-family: 'Raleway', sans-serif;
+    padding: 24px;
+    padding-left: 230px;
+   
+}
+
+.vl{
+    border-left: 30px solid rgb(175, 175, 175);
+    height: 1000px;
+    position: absolute;
+}
+
+.block10 p{
+    padding: 80px;
+    font-size: 32px;
+    font-family: 'Raleway', sans-serif;
+    padding-left: 230px;
+}
+
+.block11 p{
+    font-size: 32px;
+    padding-left: 230px;
+    font-family: 'Raleway', sans-serif;
+
+}
+    
+.block11 a{
+     color: black;
+}
+
+ .block12 p{
+     font-size: 23px;
+     color: black;
+     font-family: 'Raleway', sans-serif;
+     padding: 10px;
+     padding-left: 230px;
+
+ }
+
+ .block13 p{
+    font-size: 32px;
+    color: black;
+    font-family: 'Raleway', sans-serif;
+    padding: 40px;
+    padding-left: 230px;
+ }
+
+.block14 li > p{
+    font-size: 23px;
+    padding: 15px;
+    font-family: 'Raleway', sans-serif;
+    color: black;
+    padding-left: 30px;
+
+}
+
+.block14 a{
+    color: black;
+    font-size: 26px;
+}
+
